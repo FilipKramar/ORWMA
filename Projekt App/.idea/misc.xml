@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2875" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2875" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/activity_champion_details.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/activity_main2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/activity_main3.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/champions.xml" value="0.264" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/champlist.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/fragment_champdetail.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/fragment_champdetail2.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/fragment_champion_list.xml" value="0.264" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/fragment_championdetails.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/fragment_championlist.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/fragment_champlist.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/lista.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/loadscreen.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Filip/Desktop/projekt za app/app/src/main/res/layout/skill.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

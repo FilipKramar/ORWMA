@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256280013737",
+    "project_id": "paladins-champions",
+    "storage_bucket": "paladins-champions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256280013737:android:dc4a4b98583309654ab2b8",
+        "android_client_info": {
+          "package_name": "com.example.paladinschampions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256280013737-5tgtbc3f0puvt93btfu18272q2mh24fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4iMZf1lP_g4Hk-FkD42ys_MpPLuw7js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256280013737-5tgtbc3f0puvt93btfu18272q2mh24fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

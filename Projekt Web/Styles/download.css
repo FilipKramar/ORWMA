@@ -1,0 +1,107 @@
+body {
+    height: auto;
+    margin: 0;
+    background-image: url("../Images/pozadina.png");    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    grid-template-areas:
+    "header header header"
+    "nav nav nav"
+    "article1 article1 article1" 
+    "footer footer footer";
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: min-content;
+    grid-gap: 30px;
+    font-family: 'Courier New', monospace;
+    color: white;
+
+    
+  }
+  .header {
+      margin: 30px;
+      margin-bottom: 0px;
+     background-image: linear-gradient(to right, blue , lightblue);
+    grid-area: header; 
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 30px;
+    height: fit-content;
+   }
+
+   .title{
+    margin: 30px;
+    font-size: 50px;
+    font-style:oblique;
+    font-weight: bolder;
+}
+
+   .nav {
+    grid-area: nav; 
+    margin: 0px 30px;
+    background-image: linear-gradient(to right, blue , lightblue);
+    border: 2px solid white;
+    border-radius: 30px;
+    display: flex;
+    justify-content:space-evenly;
+    height: fit-content;
+  
+   }
+
+   .button {
+    border: none;
+    width:auto;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: auto;
+    cursor: pointer;
+    
+  }
+  .active {
+    border: none;
+    width: auto;
+    background-color:lightblue !important;
+    color: black !important;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: auto;
+    cursor: pointer;
+    text-decoration: none !important;
+   
+  }
+
+  a {
+    text-decoration: underline !important;
+    color: white;
+   }
+   a:hover {
+    text-decoration: underline;
+    color: red;
+   }
+
+   .article1 {
+    grid-area: article1;
+    margin: 0px 30px;
+    background-image: linear-gradient(to right, blue , lightblue);
+    border: 2px solid white;
+    border-radius: 30px;
+    text-align: center;
+  
+   }
+   .footer {
+    grid-area: footer;
+    margin: 0px 30px;
+    background-image: linear-gradient(to right, blue , lightblue);
+    border: 2px solid white;
+    border-radius: 30px; 
+    height: 20px;
+    text-align: center;
+   }
